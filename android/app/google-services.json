@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "382532667602",
+    "project_id": "miniproject-tugas10",
+    "storage_bucket": "miniproject-tugas10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382532667602:android:434570a69b002661a7050b",
+        "android_client_info": {
+          "package_name": "com.fardz2.mini_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDJIkT7Q2gMDjd768MTLxT47qCOA7w0v8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
